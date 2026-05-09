@@ -105,6 +105,6 @@ bookworm/
 
 ## 📄 License
 
-This project is intended for educational and personal use.
+This project is licensed under the **MIT License**.
 
-If you plan to publish or share it publicly, add a license such as the **MIT License** and include a `LICENSE` file in the repository.
+See the `LICENSE` file for details.
